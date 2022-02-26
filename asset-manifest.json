@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.412dfc18.css",
-    "main.js": "/home/static/js/main.11e337a0.js",
+    "main.css": "/home/static/css/main.cc0f1f8a.css",
+    "main.js": "/home/static/js/main.426be107.js",
     "static/media/planner.pdf": "/home/static/media/planner.5b7d0eef3b7c10f94445.pdf",
     "static/media/newsimg.jpg": "/home/static/media/newsimg.40fd6f75f6f4a2b2fbbb.jpg",
     "static/media/road.jpg": "/home/static/media/road.b04d1e27240165657889.jpg",
@@ -82,11 +82,11 @@
     "static/media/icon.jpg": "/home/static/media/icon.05ed2583c91cd00be290.jpg",
     "static/media/national.jpg": "/home/static/media/national.1a62ede3d0f063703f85.jpg",
     "index.html": "/home/index.html",
-    "main.412dfc18.css.map": "/home/static/css/main.412dfc18.css.map",
-    "main.11e337a0.js.map": "/home/static/js/main.11e337a0.js.map"
+    "main.cc0f1f8a.css.map": "/home/static/css/main.cc0f1f8a.css.map",
+    "main.426be107.js.map": "/home/static/js/main.426be107.js.map"
   },
   "entrypoints": [
-    "static/css/main.412dfc18.css",
-    "static/js/main.11e337a0.js"
+    "static/css/main.cc0f1f8a.css",
+    "static/js/main.426be107.js"
   ]
 }
