@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.d474e951.css",
-    "main.js": "/home/static/js/main.f0e63fca.js",
+    "main.css": "/home/static/css/main.7b957d8f.css",
+    "main.js": "/home/static/js/main.2ddf0c46.js",
     "static/media/planner.pdf": "/home/static/media/planner.5b7d0eef3b7c10f94445.pdf",
     "static/media/newsimg.jpg": "/home/static/media/newsimg.40fd6f75f6f4a2b2fbbb.jpg",
     "static/media/road.jpg": "/home/static/media/road.b04d1e27240165657889.jpg",
     "static/media/feedbackimg.jpg": "/home/static/media/feedbackimg.2186df53c8dc0b22bcc4.jpg",
-    "static/media/college.jpg": "/home/static/media/college.8fb4fbcfae1882d2a360.jpg",
+    "static/media/college2.jpg": "/home/static/media/college2.8daba782f311145c6963.jpg",
+    "static/media/college1.jpg": "/home/static/media/college1.8fb4fbcfae1882d2a360.jpg",
     "static/media/cseimg.jpg": "/home/static/media/cseimg.dc2321e274ceac4b2b46.jpg",
     "static/media/scienceimg.jpg": "/home/static/media/scienceimg.a60279e7558c6407da1c.jpg",
     "static/media/transportimg.jpg": "/home/static/media/transportimg.56ad51f0dbbb10f03993.jpg",
@@ -48,6 +49,7 @@
     "static/media/function19.jpg": "/home/static/media/function19.323bc39026fb8508b684.jpg",
     "static/media/function1.jpg": "/home/static/media/function1.a9951624c1f00631e35e.jpg",
     "static/media/function14.jpg": "/home/static/media/function14.58474c85c2f714fe9ae4.jpg",
+    "static/media/testimonal.png": "/home/static/media/testimonal.876c9eba2195a6592882.png",
     "static/media/function20.jpg": "/home/static/media/function20.90d26f6d882975b8d120.jpg",
     "static/media/function17.jpg": "/home/static/media/function17.816aa639ae2a815245b6.jpg",
     "static/media/function5.jpg": "/home/static/media/function5.e9d439374fc4bdb303cb.jpg",
@@ -82,11 +84,11 @@
     "static/media/icon.jpg": "/home/static/media/icon.05ed2583c91cd00be290.jpg",
     "static/media/national.jpg": "/home/static/media/national.1a62ede3d0f063703f85.jpg",
     "index.html": "/home/index.html",
-    "main.d474e951.css.map": "/home/static/css/main.d474e951.css.map",
-    "main.f0e63fca.js.map": "/home/static/js/main.f0e63fca.js.map"
+    "main.7b957d8f.css.map": "/home/static/css/main.7b957d8f.css.map",
+    "main.2ddf0c46.js.map": "/home/static/js/main.2ddf0c46.js.map"
   },
   "entrypoints": [
-    "static/css/main.d474e951.css",
-    "static/js/main.f0e63fca.js"
+    "static/css/main.7b957d8f.css",
+    "static/js/main.2ddf0c46.js"
   ]
 }
